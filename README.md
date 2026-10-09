@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Portafolio de Inteligencia Artificial
+# 🤖 Hola, te saluda Juan Sinue que busca tener su Portafolio de Inteligencia Artificial
 
 ### IA aplicada · Innovación · Transformación de negocios
 
